@@ -1,0 +1,16 @@
+ul{
+    color: green;
+}
+
+p{
+    font-size: 25px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+#idStyle{
+    color: brown;
+}
+.name{
+    color: blueviolet;
+}
